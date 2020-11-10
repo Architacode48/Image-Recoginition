@@ -1,0 +1,24 @@
+.heading{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size:30px;
+    width:100%;
+    box-shadow:15px 15px 20px black
+}
+#camera{
+    border:5px solid navy;
+    width:350px;
+    height:300px;
+}
+#object_name,#object_accuracy{
+    font-weight:bold;
+    color:black;
+}
+.object_names{
+    font-size:25px;
+    color:darkslateblue;
+}
+label{
+    font-size:25px;
+    color:coral;
+    box-shadow: 15px 15px 20px cyan;
+}
